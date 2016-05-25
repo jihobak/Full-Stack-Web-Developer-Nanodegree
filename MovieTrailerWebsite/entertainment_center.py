@@ -27,5 +27,7 @@ the_terror_live = media.Movie("The Terror Live",
                                "terrorlive.jpg"),
                               "https://www.youtube.com/watch?v=aRFz4Toqz2o")
 
+# make list of name of instance of Movie class
 movies = [the_wailing, inside_Men, the_terror_live]
+# take list of moives and generate an HTMl file
 fresh_tomatoes.open_movies_page(movies)
