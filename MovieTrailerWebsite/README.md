@@ -1,5 +1,8 @@
 #Project. Korean Moive Trailer 
 You can check live site [here](http://jihobak.github.io/blog/udacity/fresh_tomatoes.html)
+
+
+
 : This is simple website that shows Korean movie trailer that I like. You can see a moive poster. If you click it, you can also watch a pop-up movie trailer(Youtube) with english subtitle.
 ```
 MovieTrailerWebsite/
