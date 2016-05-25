@@ -1,4 +1,4 @@
-####Project. Korean Moive Trailer Website
+#Project. Korean Moive Trailer Website
 : This is simple website that shows Korean movie trailer that I like. You can see a moive poster. If you click it, you can also watch a pop-up movie trailer(Youtube) with english subtitle.
 ```
 MovieTrailerWebsite/
@@ -7,7 +7,8 @@ MovieTrailerWebsite/
 ├── fresh_tomatoes.py
 ├── media.py
 ```
-#####How to use
+---
+###How to use
 - 1. import module and make a movie instance
 
 
